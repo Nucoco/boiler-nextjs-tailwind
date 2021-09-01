@@ -1,3 +1,3 @@
 ```bash
-npx create-next-app prjName --example "https://github.com/Nucoco/boiler-nextjs-tailwind"
+npx create-next-app . --example "https://github.com/Nucoco/boiler-nextjs-tailwind"
 ```
